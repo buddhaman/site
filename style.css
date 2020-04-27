@@ -1,0 +1,17 @@
+html {
+    height:100%;
+}
+body {
+    height:100%;
+    margin: 0;
+    background-color: #eaff70;
+    background-image: linear-gradient(#70ff9b, #ffc170)
+}
+
+.cool {
+    font-family: Arial;
+    color: white;
+    margin:40px;
+    background-color: #ff70ea;
+}
+
